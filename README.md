@@ -2,7 +2,7 @@
 
 **H**ooks for the **Marvelous** **M**usic **M**anager
 
-hmmm is a daemon that uses the `idle` command of mpd to execute scripts based on events.
+hmmm is a daemon that uses the `idle` command of mpd to execute scripts when events occurred.
 
 ## Events
 
